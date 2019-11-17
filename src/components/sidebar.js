@@ -10,7 +10,7 @@ class Sidebar extends Component {
 		return(
 			<React.Fragment>
 		        <img 
-		            src="https://media.licdn.com/dms/image/C4E03AQEZtqdQ5f7-TA/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=jUpb3-23P_9zsfOf9q0ttU0FgQN9jlnA05-5TOohvOg"
+		            src={require('./foto.jpeg')}
 		            alt="avatar"
 		            className="avatar-img"
 		        />
