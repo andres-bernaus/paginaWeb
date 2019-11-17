@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "940262ad6ca068f6aaae2f10ca17962d",
+    "revision": "6b0a0da97a7fc68c41bd4c3ac06850c9",
     "url": "/paginaWeb/index.html"
   },
   {
-    "revision": "e7e710b53e8413dceaa7",
+    "revision": "a3e1e59d31b351814b6c",
     "url": "/paginaWeb/static/css/main.d8bdd235.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/paginaWeb/static/js/2.d1e61428.chunk.js"
   },
   {
-    "revision": "e7e710b53e8413dceaa7",
-    "url": "/paginaWeb/static/js/main.2e53c626.chunk.js"
+    "revision": "a3e1e59d31b351814b6c",
+    "url": "/paginaWeb/static/js/main.3df297aa.chunk.js"
   },
   {
     "revision": "6378f98b261ebf981f5f",
