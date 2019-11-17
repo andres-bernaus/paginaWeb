@@ -1,0 +1,49 @@
+.Sidebar {
+  padding-top: 1em;
+  text-align: center;
+  position: fixed;
+  width: 22%;
+  height: 100%;
+  overflow: auto;
+
+  background-color: rgb(230,230,230);
+}
+
+.avatar-img {
+  width: 53%;
+  padding-top: 10px;
+  border-radius: 50%;
+}
+
+.Sidebar-buttons {
+  width: 90%;
+  height: 5%;
+  padding-top: 10px;
+  align-items: center;
+}
+
+.Sidebar-Name {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.85em;
+  text-align: center;
+  transform: scaleY(1.1);
+  margin: 5%;
+  padding: 0;
+}
+
+.Sidebar-Email {
+  font-family: "Roboto Regular";
+  color: rgb(25,25,25);
+  margin: 0;
+  padding: 0;
+}
+
+.Social-links {
+  
+}
+
+.Social-links i {
+  color: black;
+  font-size: 2em;
+  padding: 3%;
+}

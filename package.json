@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "animate.css": "^3.7.2",
     "react": "^16.10.1",
+    "react-animate-on-scroll": "^2.1.5",
     "react-dom": "^16.10.1",
-    "react-scripts": "3.1.2"
+    "react-scripts": "3.1.2",
+    "react-visibility-sensor": "^5.1.1"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -1,22 +1,183 @@
-.App {
-  text-align: center;
+.MainBody {
+  position: fixed;
+  top: 0;
+  margin-left: 22%;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
 }
 
-.App-logo {
-  height: 40vmin;
+.landing {
+  background: 
+    linear-gradient(
+      rgba(100, 100, 100, 0.4),
+      rgba(255, 255, 255, 0.2)
+    ),
+    url(./components/background.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  
+  position: relative;
+  float: left;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.SliderFadeOut{
+  position: relative;
+  margin-left: 5%;
+  padding-top: 12%;
+
+  animation: fade-out 1s;
+}
+
+.SliderFadeIn{
   color: white;
+  
+  position: relative;
+  margin-left: 5%;
+  padding-top: 12%;
+
+  animation: fade-in-move-up 1s;
 }
 
-.App-link {
-  color: #09d3ac;
+@keyframes fade-in-move-up {
+  0% {
+    opacity: 0;
+    transform: translateY(+25%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-out {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+
+.slider-text {
+  color: black;
+  max-width: 15%;
+  padding: 10px;
+  font-size: 3.5em;
+}
+
+.slider-button {
+
+  border: 2px solid;
+  color: black;
+  padding: 10px 10px 10px 10px;
+  font-family: Quicksand Light Regular;
+  font-size: 15px;
+  margin-left: 2%
+}
+
+.slider-button i {
+  color: black;
+}
+
+.about-section {
+  margin-top: 52%;
+  margin-left: 2%;
+  max-width: 75%;
+}
+
+.about-section h1{
+  color: black;
+  padding-bottom: 15px;
+}
+
+.about-volanta {
+  color: grey;
+  font-size: 13px;
+  opacity: 0.5;
+}
+
+.about-text {
+  font-family: 'Roboto Regular';
+  font-size: 15px;
+  opacity: 0.85;
+}
+
+.projects-wrapper {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  min-height: 350px;
+}
+
+.about-project {
+  background: rgb(193,193,213);
+  background: radial-gradient(circle, rgba(193,193,213,1) 20%, rgba(255,255,255,0.3757702910265669) 55%); 
+  width: 25%;
+  height: 25%;
+  background-size: 450px 350px;
+  
+  display: inline-flex;
+  
+  position: relative;
+
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-bottom: 3%;
+
+  animation: fade-in-move-up 1s;
+}
+
+.about-project img {
+  width: 10%;
+  transform: translate(0%, -150%) scale(4);
+  align-items: center;
+}
+
+.timeline {
+  margin-left: 2%;
+  margin-bottom: 5%;
+}
+
+.timeline i {
+  color:white;
+  padding: 1.2%;
+  border-radius: 50%;
+  background-color: green;
+  border-style: solid;
+  border-color: lightgrey;
+}
+
+.timelime-item-wrapper {
+    position: relative;
+    width: 75%;
+    
+    margin-left: 2%;
+    border-left-width: 15%;
+    border-left-style: solid;
+    padding-left: 2%;
+    border-left-color: lightgrey;
+    width: 60%;
+
+    display: inline-flex;
+}
+
+.timeline-item-text {
+  background-color: rgb(230,230,230);
+  margin-left: 1%;
+  margin-right: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+
+  transform: translate(0, -10%);
+  
+  
+}
+
+.timeline-item-text p{
+  
+  width: 80%;
+  overflow: auto;
 }
