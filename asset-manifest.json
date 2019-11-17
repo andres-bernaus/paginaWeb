@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/paginaWeb/static/css/main.d8bdd235.chunk.css",
+    "main.js": "/paginaWeb/static/js/main.2e53c626.chunk.js",
+    "main.js.map": "/paginaWeb/static/js/main.2e53c626.chunk.js.map",
+    "runtime-main.js": "/paginaWeb/static/js/runtime-main.461d9d92.js",
+    "runtime-main.js.map": "/paginaWeb/static/js/runtime-main.461d9d92.js.map",
+    "static/js/2.d1e61428.chunk.js": "/paginaWeb/static/js/2.d1e61428.chunk.js",
+    "static/js/2.d1e61428.chunk.js.map": "/paginaWeb/static/js/2.d1e61428.chunk.js.map",
+    "index.html": "/paginaWeb/index.html",
+    "precache-manifest.0e9edd02cf5bb18be5924f5d6a545509.js": "/paginaWeb/precache-manifest.0e9edd02cf5bb18be5924f5d6a545509.js",
+    "service-worker.js": "/paginaWeb/service-worker.js",
+    "static/css/main.d8bdd235.chunk.css.map": "/paginaWeb/static/css/main.d8bdd235.chunk.css.map",
+    "static/media/android-icon.png": "/paginaWeb/static/media/android-icon.e47f883c.png",
+    "static/media/App.css": "/paginaWeb/static/media/background.63bb322c.jpeg",
+    "static/media/react-icon.png": "/paginaWeb/static/media/react-icon.04557c1b.png"
+  }
+}
