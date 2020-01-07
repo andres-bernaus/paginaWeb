@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/andres-bernaus/paginaWeb/static/css/main.b9d1650b.chunk.css",
-    "main.js": "/andres-bernaus/paginaWeb/static/js/main.cb0c8c61.chunk.js",
-    "main.js.map": "/andres-bernaus/paginaWeb/static/js/main.cb0c8c61.chunk.js.map",
-    "runtime-main.js": "/andres-bernaus/paginaWeb/static/js/runtime-main.473157fb.js",
-    "runtime-main.js.map": "/andres-bernaus/paginaWeb/static/js/runtime-main.473157fb.js.map",
-    "static/js/2.136be1f6.chunk.js": "/andres-bernaus/paginaWeb/static/js/2.136be1f6.chunk.js",
-    "static/js/2.136be1f6.chunk.js.map": "/andres-bernaus/paginaWeb/static/js/2.136be1f6.chunk.js.map",
-    "index.html": "/andres-bernaus/paginaWeb/index.html",
-    "precache-manifest.3162b8c4a5e8c23af1a91781a2eaf4f4.js": "/andres-bernaus/paginaWeb/precache-manifest.3162b8c4a5e8c23af1a91781a2eaf4f4.js",
-    "service-worker.js": "/andres-bernaus/paginaWeb/service-worker.js",
-    "static/css/main.b9d1650b.chunk.css.map": "/andres-bernaus/paginaWeb/static/css/main.b9d1650b.chunk.css.map",
-    "static/js/2.136be1f6.chunk.js.LICENSE": "/andres-bernaus/paginaWeb/static/js/2.136be1f6.chunk.js.LICENSE",
-    "static/media/android-icon.png": "/andres-bernaus/paginaWeb/static/media/android-icon.e47f883c.png",
-    "static/media/App.css": "/andres-bernaus/paginaWeb/static/media/background.63bb322c.jpeg",
-    "static/media/foto2.jpg": "/andres-bernaus/paginaWeb/static/media/foto2.bce8097b.jpg",
-    "static/media/react-icon.png": "/andres-bernaus/paginaWeb/static/media/react-icon.04557c1b.png"
+    "main.css": "/paginaWeb/static/css/main.82bbe778.chunk.css",
+    "main.js": "/paginaWeb/static/js/main.f53a123a.chunk.js",
+    "main.js.map": "/paginaWeb/static/js/main.f53a123a.chunk.js.map",
+    "runtime-main.js": "/paginaWeb/static/js/runtime-main.d2afae9c.js",
+    "runtime-main.js.map": "/paginaWeb/static/js/runtime-main.d2afae9c.js.map",
+    "static/js/2.136be1f6.chunk.js": "/paginaWeb/static/js/2.136be1f6.chunk.js",
+    "static/js/2.136be1f6.chunk.js.map": "/paginaWeb/static/js/2.136be1f6.chunk.js.map",
+    "index.html": "/paginaWeb/index.html",
+    "precache-manifest.b7408ed46bdcf7c3158e092d1e2b2b30.js": "/paginaWeb/precache-manifest.b7408ed46bdcf7c3158e092d1e2b2b30.js",
+    "service-worker.js": "/paginaWeb/service-worker.js",
+    "static/css/main.82bbe778.chunk.css.map": "/paginaWeb/static/css/main.82bbe778.chunk.css.map",
+    "static/js/2.136be1f6.chunk.js.LICENSE": "/paginaWeb/static/js/2.136be1f6.chunk.js.LICENSE",
+    "static/media/android-icon.png": "/paginaWeb/static/media/android-icon.e47f883c.png",
+    "static/media/App.css": "/paginaWeb/static/media/background.63bb322c.jpeg",
+    "static/media/foto2.jpg": "/paginaWeb/static/media/foto2.bce8097b.jpg",
+    "static/media/react-icon.png": "/paginaWeb/static/media/react-icon.04557c1b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.473157fb.js",
+    "static/js/runtime-main.d2afae9c.js",
     "static/js/2.136be1f6.chunk.js",
-    "static/css/main.b9d1650b.chunk.css",
-    "static/js/main.cb0c8c61.chunk.js"
+    "static/css/main.82bbe778.chunk.css",
+    "static/js/main.f53a123a.chunk.js"
   ]
 }
